@@ -1,0 +1,25 @@
+    [
+        {
+            id : 1,
+            reparacion : 'llantas',
+            patente: 'algo123',
+            dia : '10/11/28',
+            observacion: "aksasjkgdiadkbaisudbaksdijas"
+
+        },
+        {
+            id : 2,
+            reparacion : 'llantas',
+            patente: 'algo123',
+            dia : '10/11/28',
+            observacion: "aksasjkgdiadkbaisudbaksdijas"
+
+        },
+        {
+            id : 3,
+            reparacion : 'llantas',
+            patente: 'algo123',
+            dia : '10/11/28',
+            observacion: "aksasjkgdiadkbaisudbaksdijas"
+        }
+    ]

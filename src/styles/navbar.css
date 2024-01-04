@@ -1,0 +1,61 @@
+.navegador{
+    height: 75px;
+    width: 100%;
+    display: flex;
+    background: #ebebeb;
+    padding: 0;
+    position: relative;
+}
+
+.contenedor{
+    height: 100%;
+    padding: 0px;
+    width: 10%;
+    position: absolute;
+}
+
+.contenedorIH:hover, .contenedorH:hover{
+    background: #dad8d8;
+}
+
+.contenedorIH{
+    right: 10%;
+    padding-top: 25px;
+    height: 100%;
+    padding-left: 30px;
+    align-items: center;
+    text-align: center;
+    padding-right: 10%;
+}
+.contenedorH{
+    right: 0px;
+}
+
+.logo,.iniciar{
+    background: #dad8d800;
+
+}
+
+.iniciar{   
+    border: none;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+    width: 100% ;
+    font-size: larger;
+    text-decoration: none;
+    color: #000;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.img{
+    background-image: url(../assets/lubriLogo.png);
+    border: none;
+    align-items: center;
+    height: 100%;
+    width: 100% ;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+    
